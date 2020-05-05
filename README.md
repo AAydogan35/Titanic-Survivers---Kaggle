@@ -1,4 +1,4 @@
-#Kaggle: Machine Learning from Disaster
+# Kaggle: Machine Learning from Disaster
 
 This notebook is hereby to share our team's (RoomforJake) work on this project. 
 Competition data is about Titanic's passengers' demographics and socio-economic status.
